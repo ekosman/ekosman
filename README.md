@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Technical Stack
 <p align="left">
 <!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>  -->
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
