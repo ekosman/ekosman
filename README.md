@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 </p>
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ekosman&show_icons=true&theme=radical&title_color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosman&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekosman&show_icons=true&theme=radical&title_color=blue)
