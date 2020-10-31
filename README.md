@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### Technical Stack
+-->
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eitan-kosman-2402a4161/)
+
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
