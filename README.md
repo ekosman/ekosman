@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
-  <img src="https://he.wikipedia.org/wiki/Java_Virtual_Machine#/media/%D7%A7%D7%95%D7%91%D7%A5:Java_Logo.svg.png" alt="java" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/he/0/05/Java_Logo.svg.png" alt="java" width="40" height="40"/> 
   
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
